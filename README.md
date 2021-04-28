@@ -7,7 +7,7 @@ Learn #PixelArt by doing weekly challenges! Tag your tweet with #learnpixelart.
 | Week | Theme | Colors | Size
 | - | - | - | -
 | 1 | What's on your desk | Up to 8 | 16x16
-| 2 | '90s tech | Up to 5 | 32x32
+| 2 | '90s tech | Up to 5 | 24x24
 | 3 | - | - | -
 | 4 | - | - | -
 | 5 | - | - | -
