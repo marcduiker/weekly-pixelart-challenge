@@ -2,7 +2,7 @@
 
 This is the repository where we manage some stuff around [twitter.com/learnpixelart](https://twitter.com/learnpixelart).
 
-Learn #PixelArt by doing weekly challenges! Tag your tweet with #learnpixelart.
+Learn #PixelArt by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll start a new challenge every Friday!
 
 | Week | Theme | Colors | Size
 | - | - | - | -
