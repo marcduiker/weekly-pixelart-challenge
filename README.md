@@ -4,6 +4,18 @@ This is the repository where we manage some stuff around [twitter.com/learnpixel
 
 Learn #PixelArt by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll start a new challenge every Friday!
 
+## Examples
+
+Here are some examples for the first challenge:
+
+![WALL-E by Luise](/week1/walle-pixelartchallenge.png)
+>*WALL-E by Luise*
+
+![Laptop by Marc](/week1/laptop-marcduiker.png)
+> *Laptop by Marc*
+
+## Challenges
+
 | Week | Theme | Colors | Size
 | - | - | - | -
 | 1 | What's on your desk | Up to 8 | 16x16
