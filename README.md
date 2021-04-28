@@ -10,7 +10,7 @@ Here are some examples for the first challenge:
 
 |  | By Luise | By Marc | By Maxime |
 | - | - | - | - |
-| **Week 1 examples** | ![WALL-E by Luise](/week1/walle-pixelartchallenge.png) <br/>*WALL-E by Luise* | ![Laptop by Marc](/week1/laptop-marcduiker.png)<br/>*Laptop by Marc* | ![Microsoft Mug by Maxime](week1/MicrosoftMug.png)<br/>*Microsoft Mug by Maxime* |
+| **Week 1 examples** | ![WALL-E by Luise](/week1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/week1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](week1/MicrosoftMug.png)<br/>*Microsoft Mug* |
 
 ## Challenges
 
