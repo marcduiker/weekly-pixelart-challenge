@@ -6,17 +6,16 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 
 ## How to participate
 
-1. Follow [@learnpixelart](https://twitter.com/learnpixelart) on Twitter and check the  new challenge post each Friday.
-2. Create the pixel art on any medium you like, it can be digital 💻, paper 📄 (check out the [grid paper templates](grid-paper)), or cross-stitching 🧵!
-3. Upload the digital work, or a picture of the physical work to Twitter and use the #LearnPixelArt hashtag. That's it!
+1. Follow [@learnpixelart](https://twitter.com/learnpixelart) on Twitter and check the new challenge post every Friday.
+2. Create pixel art, that fulfills the challenge criteria, on any medium you like, it can be digital 💻, paper 📄 (check out the [grid paper templates](grid-paper)), or cross-stitching 🧵!
+3. Upload the digital work, or a picture of the physical work to Twitter and use the #LearnPixelArt hashtag.
+4. [Find out](https://twitter.com/search?q=%23learnpixelart) what others have created and give it some ❤. That's it!
 
 ## Examples
 
-Here are some examples for the first challenge:
-
 |  | Luise | Marc | Maxime |
 | - | - | - | - |
-| **Challenge 1 examples** | ![WALL-E by Luise](/challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
+| **Challenge 1** | ![WALL-E by Luise](/challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
 
 ## Resources
 
