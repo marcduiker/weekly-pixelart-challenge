@@ -26,11 +26,11 @@ Here are some examples for the first challenge:
 
 ## Challenges
 
-| Week | Theme | Colors | Size
+| Challenge | Theme | Colors | Size
 | - | - | - | -
 | 1 | What's on your desk | Up to 8 | 16x16
 | 2 | '90s tech | Up to 5 | 24x24
-| 3 | - | - | -
+| 3 | Toy(s) | 16 | 24x24
 | 4 | - | - | -
 | 5 | - | - | -
 | 6 | - | - | -
