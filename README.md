@@ -16,7 +16,7 @@ Here are some examples for the first challenge:
 
 |  | Luise | Marc | Maxime |
 | - | - | - | - |
-| **Challenge 1 examples** | ![WALL-E by Luise](/week1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/week1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](week1/MicrosoftMug.png)<br/>*Microsoft Mug* |
+| **Challenge 1 examples** | ![WALL-E by Luise](/challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
 
 ## Resources
 
