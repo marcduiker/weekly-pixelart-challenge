@@ -4,6 +4,12 @@ This is the repository where we manage some stuff around [twitter.com/learnpixel
 
 Learn #PixelArt by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll start a new challenge every Friday!
 
+## How to participate
+
+1. Follow [@learnpixelart](https://twitter.com/learnpixelart) on Twitter and check the  new challenge post each Friday.
+2. Create the pixel art on any medium you like, it can be digital 💻, on paper 📄 (check out the [grid paper templates](grid-paper)), or cross-stitching 🧵!
+3. Upload the digital work, or a picture of the physical work to Twitter and use the #LearnPixelArt hashtag. That's it!
+
 ## Examples
 
 Here are some examples for the first challenge:
