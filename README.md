@@ -1,12 +1,12 @@
 # Weekly Pixel Art Challenge
 
-Learn #PixelArt by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll start a new challenge every Friday!
+Learn #PixelArt by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll announce a new challenge every Friday!
 
 There won't be any judging or ranking, it's just for fun, so we can inspire each another and learn together.
 
 ## How to participate
 
-1. Follow [@learnpixelart](https://twitter.com/learnpixelart) on Twitter and check the new challenge post every Friday.
+1. Follow [@learnpixelart](https://twitter.com/learnpixelart) on Twitter and check the new challenge announcement every Friday.
 2. Create pixel art that fulfills the challenge criteria, using any medium you like; it can be digital 💻, paper 📄 (check out the [grid paper templates](grid-paper)), or cross-stitching 🧵!
 3. Upload the digital work, or a picture of the physical work to Twitter and use the #LearnPixelArt hashtag.
 4. [Find out](https://twitter.com/search?q=%23learnpixelart) what others have created and give it some ❤. That's it!
