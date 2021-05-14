@@ -15,8 +15,8 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 
 |  | Luise | Marc | Maxime |
 | - | - | - | - |
-| **Challenge 1:** <br/>*What's on your desk* | ![WALL-E by Luise](/challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](/challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
-
+| **Challenge 1:** <br/>*What's on your desk* | ![WALL-E by Luise](challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
+| **Challenge 2:** <br/>*90s Tech* | - | ![Cassette tape](challenges/challenge2/cassette-tape-marcduiker.png) | -
 ## Resources
 
 * [Pixel art tutorials](https://lospec.com/articles/pixel-art-where-to-start/)
@@ -30,8 +30,8 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | 1 | Apr 30 | What's on your desk | Up to 8 | 16x16
 | 2 | May 7 | '90s tech | Up to 5 | 24x24
 | 3 | May 14 | Toy(s) | Up to 16 | 24x24
-| 4 | May 21 | - | - | -
-| 5 | May 28 | - | - | -
+| 4 | May 21 | Nature | Up to 8 | 16x16
+| 5 | May 28 | SciFi | Up to 12 | 32x32
 | 6 | Jun 4 | - | - | -
 | 7 | Jun 11 | - | - | -
 | 8 | Jun 18 | - | - | -
