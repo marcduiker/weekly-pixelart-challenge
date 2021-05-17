@@ -16,7 +16,7 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 |  | Luise | Marc | Maxime |
 | - | - | - | - |
 | **Challenge 1:** <br/>*What's on your desk* | ![WALL-E by Luise](challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
-| **Challenge 2:** <br/>*90s Tech* | - | ![Cassette tape](challenges/challenge2/cassette-tape-marcduiker.png)<br/>*Cassette tape* | ![Back of a VHS](challenges/challenge2/VHSTapeBack.gif)<br/>*Back of VHS* |
+| **Challenge 2:** <br/>*90s Tech* | ![Nintendo Gameboy](https://github.com/marcduiker/weekly-pixelart-challenge/blob/main/challenges/challenge2/nintendo-gameboy.png) | ![Cassette tape](challenges/challenge2/cassette-tape-marcduiker.png)<br/>*Cassette tape* | ![Back of a VHS](challenges/challenge2/VHSTapeBack.gif)<br/>*Back of VHS* |
 ## Resources
 
 * [Pixel art tutorials](https://lospec.com/articles/pixel-art-where-to-start/)
