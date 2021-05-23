@@ -17,8 +17,8 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | - | - | - | - |
 | **Challenge 1:** <br/>*What's on your desk* | ![WALL-E by Luise](challenges/challenge1/walle-pixelartchallenge.png) <br/>*WALL-E* | ![Laptop by Marc](challenges/challenge1/laptop-marcduiker.png)<br/>*Laptop* | ![Microsoft Mug by Maxime](challenges/challenge1/MicrosoftMug.png)<br/>*Microsoft Mug* |
 | **Challenge 2:** <br/>*90s Tech* | ![Nintendo Gameboy](challenges/challenge2/nintendo-gameboy.png)<br/>*Nintendo Gameboy* | ![Cassette tape](challenges/challenge2/cassette-tape-marcduiker.png)<br/>*Cassette tape* | ![Back of a VHS](challenges/challenge2/VHSTapeBack.gif)<br/>*Back of VHS* |
-| **Challenge 3:** <br/>*Toys* | ![Paddington Bear](https://github.com/marcduiker/weekly-pixelart-challenge/blob/main/challenges/challenge3/Paddington-LuiseFreese.png)<br/>*Paddington Bear* | ![Furby](challenges/challenge3/furby-marcduiker.png)<br/>*Furby* | ![Buzz](challenges/challenge3/buzzed-maxime.png)<br/>*Buzz* |
-| **Challenge 4:** <br/>*Nature* | ![Bliss](https://github.com/marcduiker/weekly-pixelart-challenge/blob/main/challenges/challenge4/bliss.png)<br/>*Windows Bliss* |- | - |
+| **Challenge 3:** <br/>*Toys* | ![Paddington Bear](challenges/challenge3/Paddington-LuiseFreese.png)<br/>*Paddington Bear* | ![Furby](challenges/challenge3/furby-marcduiker.png)<br/>*Furby* | ![Buzz](challenges/challenge3/buzzed-maxime.png)<br/>*Buzz* |
+| **Challenge 4:** <br/>*Nature* | ![Bliss](challenges/challenge4/bliss.png)<br/>*Windows Bliss* | ![Snail](challenges/challenge4/snail_marcduiker.gif)<br/>*Snail* | - |
 
 ## Resources
 
