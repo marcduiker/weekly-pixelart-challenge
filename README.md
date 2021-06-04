@@ -36,8 +36,5 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | 3 | May 14 | Toy(s) | Up to 16 | 24x24
 | 4 | May 21 | Nature | Up to 8 | 16x16
 | 5 | May 28 | SciFi | Up to 12 | 32x32
-| 6 | Jun 4 | - | - | -
-| 7 | Jun 11 | - | - | -
-| 8 | Jun 18 | - | - | -
-| 9 | Jun 25 | - | - | -
-| 10 | Jul 6 | - | - | -
+| 6 | Jun 4 | Food | Up to 12 | 24x24
+| 7 | Jun 11 | Music | Up to 16 | 32x32
