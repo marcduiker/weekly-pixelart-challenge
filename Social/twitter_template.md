@@ -1,0 +1,15 @@
+1/ Learn #PixelArt ✏ by doing weekly challenges! Tag your tweet with #LearnPixelArt. We'll start a new challenge every Friday!
+
+There won't be any judging or ranking, it's just for fun, so we can inspire each another and learn together.
+
+This is the challenge for this week:
+<IMAGE>
+
+*ALT text:* 
+A weekly challenge on Twitter. Rules: Tweet your image with the #LearnPixelArt hashtag. Must respect these criteria: 
+- Theme: Music
+- Colors: up to 16
+- Size: 32x32
+
+
+2/ Want examples, tutorials & tools? Then visit https://github.com/marcduiker/weekly-pixelart-challenge/
