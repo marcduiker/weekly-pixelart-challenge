@@ -38,3 +38,4 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | 5 | May 28 | SciFi | Up to 12 | 32x32
 | 6 | Jun 4 | Food | Up to 12 | 24x24
 | 7 | Jun 11 | Music | Up to 16 | 32x32
+| 8 | Jun 18 | Pride | Up to 16 | 32x32
