@@ -41,3 +41,4 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | 7 | Jun 11 | Music | Up to 16 | 32x32
 | 8 | Jun 19 | Pride | Up to 16 | 32x32
 | 9 | Jun 26 | Science | Up to 4 | 48x48
+| 10 | Jul 3 | Underwater | Up to 8 | 48x48
