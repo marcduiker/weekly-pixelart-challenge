@@ -42,3 +42,11 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | 8 | Jun 19 | Pride | Up to 16 | 32x32
 | 9 | Jun 26 | Science | Up to 4 | 48x48
 | 10 | Jul 3 | Underwater | Up to 8 | 48x48
+| 11 | Sep 5 | Charity | Up to 16 | 48x48
+| 12 | Sep 12 | Programming | Up to 4 | 64x64
+| 13 | Sep 19 | Pirate | Up to 8 | 64x64
+| 14 | Sep 26 | Heart | Up to 8 | 48x48
+| 15 | Oct 3 | Teacher | Up to 16 | 64x64
+| 16 | Oct 10 | Mental health | Up to 4 | 64x64
+| 17 | Oct 17 | Biology | Up to 16 | 64x64
+| 18 | Oct 24 | Communication | Up to 4 | 48x48
