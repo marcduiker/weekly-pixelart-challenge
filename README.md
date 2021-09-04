@@ -21,7 +21,9 @@ There won't be any judging or ranking, it's just for fun, so we can inspire each
 | **Challenge 4:** <br/>*Nature* | ![Bliss](challenges/challenge4/bliss.png)<br/>*Windows Bliss* | ![Snail](challenges/challenge4/snail_marcduiker.gif)<br/>*Snail* | ![Horrible Maple Leaf](challenges/challenge4/LowResolutionMapleLeaf.png)<br/>*Terrible Maple Leaf* |
 | **Challenge 5:** <br/>*Sci-Fi* | ![Leela](challenges/challenge5/leela.png)<br/>*Leela from Futurama* | ![Starwars Fighter](challenges/challenge5/starwars_marcduiker.png)<br/>*Starwars Fighter ship* | - |
 | **Challenge 6:** <br/>*Food* | - | ![Banana!](challenges/challenge6/banana_marcduiker.png)<br/>*Banana!* | - |
-
+| **Challenge 7:** <br/>*Music* | - | ![Metronome](challenges/challenge7/metronome_marcduiker.gif)<br/>*Metronome!* | - |
+| **Challenge 8:** <br/>*Pride* | - | ![Pride](challenges/challenge8/pride_marcduiker.gif)<br/>*Pride* | - |
+| **Challenge 9:** <br/>*Science* | - | ![Science](challenges/challenge9/science_marcduiker.gif)<br/>*Lab* | - |
 ## Resources
 
 * [Pixel art tutorials](https://lospec.com/articles/pixel-art-where-to-start/)
